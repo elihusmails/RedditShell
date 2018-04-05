@@ -215,6 +215,5 @@ Scripts/
 # Shared
 pyvenv.cfg
 
-
-
-# End of https://www.gitignore.io/api/venv,python,pycharm,pycharm+all
+#PRAW ini files
+praw.ini
